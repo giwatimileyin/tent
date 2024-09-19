@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    background-color: #000;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.vi1 {
+    height: 150px;
+    width: 160px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    text-decoration: none;
+    color: #fff;
+
+
+}
+.home {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+    font-size: 16px;
+}  
+.shift {
+    font-size: 36px;
+    padding: 5px;
+    padding-top: 45px;
+}
+.face {
+    padding-left: 410px;
+} 
+.sec {
+    background-color: #000;
+    padding-top: 180px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: #fff;
+}
+.ass {
+    margin-bottom: 50px;
+}
+
+.qu .ty{
+    font-size: 80px;
+    margin: 0;
+}
+.qu h1 {
+    font-size: 65px;
+    margin: 0;
+}
+.qu p {
+    font-size: 20px;
+    padding-right: 270px;
+}
+.qu button {
+    margin-top: 50px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    color: #fff;
+    background-color: rgb(68, 30, 68);
+    border: none;
+    border-radius: 0,2;
+}
+.sec2 {
+    margin-top: 40PX;
+    margin-bottom: 40px;
+    z-index: 3;
+    background-color: #fff;
+}
+.our {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 70px; 
+}
+.roach {
+    font-size: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.dedi {
+    padding-left: 10px;
+    margin: 10px;
+}
+.png {
+    margin-top: 70px;
+    width: 100%;
+    height: 40%;
+}
+.ble {
+    padding-left: 0;
+}
+
+.dedi h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dedi p{
+    text-align: left;
+    font-size: 18px;
+    color: #8f8a8a;
+}
+
+.app{
+    text-align: center;
+}
+.out {
+    margin-top: 50px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(68, 30, 68);
+    border: none;
+    border-radius: 0,2;
+}
+.sec3 {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    color: #fff;
+    background-image: url(img/liane-metzler-v3bWNXeInQA-unsplash\ \(2\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+.here {
+    font-size: 30px;
+    text-align: center;
+}
+.vision{
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+.cus {
+    display: flex;
+    padding-left: 60px;
+    padding-right: 70px;
+}
+
+.sec4{
+    background-color:  rgb(110, 5, 110);
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 60px;
+}
+.dre h1 {
+    color: #fff;
+    font-size: 50px;
+    margin-right: 500px;
+    /* border: 2px solid #000; */
+}
+.bui {
+    font-family: cursive;
+}
+.dre button {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    color: rgb(110, 15, 110);
+}
+.sec5{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 120px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.gua {
+    /* border: 2px solid #fff; */
+    display: flex;
+    align-content: center;
+    /* margin-left: 200px;
+    margin-right: 200px; */
+
+}
+.ruc{
+    margin: 10px;
+    margin-right: 90px;
+
+}
+.ruc p{
+    font-size: 20px;
+}
+.on{
+    border-radius: 9rem;
+}
+.sec6 {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-top: 70px;
+    padding-bottom: 120px;
+    
+
+}
+.kw {
+    height: 120px;
+    width: 120px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+.lf i{
+    font-size: 37px;
+    color: #fff;
+    margin: 10px;
+
+}
+.twi {
+    margin-left: 580px;
+    margin-right: 580px;
+}
